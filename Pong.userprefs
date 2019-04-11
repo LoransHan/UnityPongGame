@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\bonusAreaDetectionBox.js">
+    <Files>
+      <File FileName="Assets\Script\bonusAreaDetectionBox.js" Line="10" Column="16" />
+      <File FileName="Assets\Script\Ball.js" Line="27" Column="15" />
+      <File FileName="Assets\Script\MainGame.js" Line="18" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

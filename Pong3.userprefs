@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Pong3\SpawnPower.js">
+    <Files>
+      <File FileName="Assets\Script\Pong3\BrickScript.js" Line="17" Column="96" />
+      <File FileName="Assets\Script\Pong3\SpawnPower.js" Line="55" Column="1" />
+      <File FileName="Assets\Script\Pong3\Ball3.js" Line="39" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
